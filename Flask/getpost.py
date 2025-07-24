@@ -32,5 +32,7 @@ def submit():
         return f'Hello {name}!'
     return render_template('form.html')
 
+
+
 if __name__ == "__main__":
     app.run(debug=True)     #when debug is True simulatanious upedated the web server when we change the code
