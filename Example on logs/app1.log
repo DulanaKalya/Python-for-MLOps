@@ -1,0 +1,6 @@
+2025-07-24 09:13:59 - DEBUG - Adding 10+15,result
+2025-07-24 09:13:59 - DEBUG - Adding 10+20,result
+2025-07-24 09:15:10 - DEBUG - Adding 10+15,=25
+2025-07-24 09:15:10 - DEBUG - Adding 10/20=0.5
+2025-07-24 09:17:22 - DEBUG - Adding 10+15,=25
+2025-07-24 09:17:22 - ERROR - Division by zero error
