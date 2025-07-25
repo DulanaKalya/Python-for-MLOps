@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nethsarani/Desktop/Dulana/Python-for-MLOps/Deep%20Learning%20project/mlruns/435558510033882704/b6a610c92c97427c99950ddb3eb9fabd/artifacts
+end_time: 1753422980381
+entry_point_name: ''
+experiment_id: '435558510033882704'
+lifecycle_stage: active
+run_id: b6a610c92c97427c99950ddb3eb9fabd
+run_name: salty-roo-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753422963596
+status: 3
+tags: []
+user_id: nethsarani

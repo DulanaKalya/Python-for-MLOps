@@ -1,0 +1,28 @@
+artifact_path: file:///Users/nethsarani/Desktop/Dulana/Python-for-MLOps/Deep%20Learning%20project/mlruns/435558510033882704/models/m-f8bcf3b043a04dd19aa113ac02ac0cde/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.0
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.16.2
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-f8bcf3b043a04dd19aa113ac02ac0cde
+model_size_bytes: 28776
+model_uuid: m-f8bcf3b043a04dd19aa113ac02ac0cde
+prompts: null
+run_id: f9dd668d8d254663af95815c5fe2e37d
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 11]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-25 05:49:27.554046'

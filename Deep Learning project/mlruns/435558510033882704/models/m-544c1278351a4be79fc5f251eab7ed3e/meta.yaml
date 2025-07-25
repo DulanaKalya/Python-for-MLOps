@@ -1,0 +1,10 @@
+artifact_location: file:///Users/nethsarani/Desktop/Dulana/Python-for-MLOps/Deep%20Learning%20project/mlruns/435558510033882704/models/m-544c1278351a4be79fc5f251eab7ed3e/artifacts
+creation_timestamp: 1753422965749
+experiment_id: '435558510033882704'
+last_updated_timestamp: 1753422980377
+model_id: m-544c1278351a4be79fc5f251eab7ed3e
+model_type: null
+name: model
+source_run_id: b6a610c92c97427c99950ddb3eb9fabd
+status: 2
+status_message: null

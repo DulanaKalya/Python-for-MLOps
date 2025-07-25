@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nethsarani/Desktop/Dulana/Python-for-MLOps/Deep%20Learning%20project/mlruns/435558510033882704/0eb2c949915148f98619753354f19b8c/artifacts
+end_time: 1753422998459
+entry_point_name: ''
+experiment_id: '435558510033882704'
+lifecycle_stage: active
+run_id: 0eb2c949915148f98619753354f19b8c
+run_name: polite-gnat-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753422980418
+status: 3
+tags: []
+user_id: nethsarani

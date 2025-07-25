@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nethsarani/Desktop/Dulana/Python-for-MLOps/Deep%20Learning%20project/mlruns/435558510033882704/02496e0d5be7484eb317254a751dfeae/artifacts
+end_time: 1753422638038
+entry_point_name: ''
+experiment_id: '435558510033882704'
+lifecycle_stage: active
+run_id: 02496e0d5be7484eb317254a751dfeae
+run_name: mercurial-koi-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753422542248
+status: 3
+tags: []
+user_id: nethsarani

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nethsarani/Desktop/Dulana/Python-for-MLOps/Deep%20Learning%20project/mlruns/435558510033882704/00a765fc8e9c4515bec923c5a9d29d8d/artifacts
+end_time: 1753422602621
+entry_point_name: ''
+experiment_id: '435558510033882704'
+lifecycle_stage: active
+run_id: 00a765fc8e9c4515bec923c5a9d29d8d
+run_name: grandiose-sheep-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753422583702
+status: 3
+tags: []
+user_id: nethsarani
