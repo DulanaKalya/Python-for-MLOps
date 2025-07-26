@@ -1,0 +1,7 @@
+scikit-learn
+pandas
+numpy
+keras
+tensorflow
+hyperopt
+mlflow==2.16.2
